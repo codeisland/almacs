@@ -1,0 +1,728 @@
+[
+ {
+   "Store Number":"No.",
+   "Store Name":"Name",
+   "FIELD3":"Phone",
+   "FIELD4":"Address"
+ },
+ {
+   "Store Number":"101",
+   "Store Name":"PLYMOUTH",
+   "FIELD3":"508 747 2325",
+   "FIELD4":"20 Pilgrim Hill Rd., Plymouth, MA 02360"
+ },
+ {
+   "Store Number":"102",
+   "Store Name":"S.ATTELBORO",
+   "FIELD3":"508 761 5681",
+   "FIELD4":"1200 Newport Avenue, S. Attleboro, MA 02703"
+ },
+ {
+   "Store Number":"103",
+   "Store Name":"WARWICK",
+   "FIELD3":"401 823 1820",
+   "FIELD4":"1500 BaldHill Rd., Warwick, RI 02886"
+ },
+ {
+   "Store Number":"104",
+   "Store Name":"BRAINTREE",
+   "FIELD3":"617 356 4467",
+   "FIELD4":"125 Pearl St., Braintree, MA 02184"
+ },
+ {
+   "Store Number":"105",
+   "Store Name":"CARVER",
+   "FIELD3":"508 866 2977",
+   "FIELD4":"160 No. Main St., Rte. 58, Carver, MA 02330"
+ },
+ {
+   "Store Number":"106",
+   "Store Name":"SOUTH",
+   "FIELD3":"508 588 3393",
+   "FIELD4":"2077 Main St., Brockton, MA 02401"
+ },
+ {
+   "Store Number":"107",
+   "Store Name":"EAST",
+   "FIELD3":"508 583 2581",
+   "FIELD4":"715 Cresent St, Brockton, MA 02402"
+ },
+ {
+   "Store Number":"108",
+   "Store Name":"WEST",
+   "FIELD3":"508 588 7746",
+   "FIELD4":"609 Belmont St., Brockton, MA 02401"
+ },
+ {
+   "Store Number":"109",
+   "Store Name":"EASTON",
+   "FIELD3":"508 238 0165",
+   "FIELD4":"690 Depot St., Easton, MA 02356"
+ },
+ {
+   "Store Number":"110",
+   "Store Name":"HANSON",
+   "FIELD3":"617 293 3008",
+   "FIELD4":"Liberty & County Sts. (476 Liberty), Hanson, MA 02341 1199"
+ },
+ {
+   "Store Number":"111",
+   "Store Name":"PAWTUCKET",
+   "FIELD3":"401 331 5524",
+   "FIELD4":"50 Ann Mary St., Pawtucket, RI 02860"
+ },
+ {
+   "Store Number":"112",
+   "Store Name":"N FALL RIVER",
+   "FIELD3":"508 677 0940",
+   "FIELD4":"4171 No. Main St., Fall River, MA 02720"
+ },
+ {
+   "Store Number":"113",
+   "Store Name":"N ATTLEBORO",
+   "FIELD3":"508 643 2259",
+   "FIELD4":"125 Toner Blvd., N. Attleboro, MA 02760"
+ },
+ {
+   "Store Number":"114",
+   "Store Name":"WEYMOUTH",
+   "FIELD3":"617 331 5108",
+   "FIELD4":"610 Middle St., Weymouth, MA 02189"
+ },
+ {
+   "Store Number":"115",
+   "Store Name":"QUINCY",
+   "FIELD3":"617 471 6013",
+   "FIELD4":"100 Quincy Ave., Quincy, MA 02169"
+ },
+ {
+   "Store Number":"116",
+   "Store Name":"MEDFIELD",
+   "FIELD3":"508 359 8713",
+   "FIELD4":"230 Main St., Medfield, MA 02052"
+ },
+ {
+   "Store Number":"117",
+   "Store Name":"E PROVIDENCE",
+   "FIELD3":"401 431 9840",
+   "FIELD4":"575 Taunton Ave., E. Providence, RI 02914"
+ },
+ {
+   "Store Number":"118",
+   "Store Name":"RANDOLPH",
+   "FIELD3":"617 963 6995",
+   "FIELD4":"121 Memorial Parkway, Randolph, MA 02368"
+ },
+ {
+   "Store Number":"119",
+   "Store Name":"STOUGHTON",
+   "FIELD3":"617 341 1908",
+   "FIELD4":"666 Washington St., Stoughton, MA 02072"
+ },
+ {
+   "Store Number":"120",
+   "Store Name":"CANTON",
+   "FIELD3":"617 828 1446",
+   "FIELD4":"Village Mall/Cobbs Corner (75 Washington St.), Canton, MA 02021"
+ },
+ {
+   "Store Number":"121",
+   "Store Name":"SHARON",
+   "FIELD3":"617 784 5995",
+   "FIELD4":"780 So. Main St., Sharon, MA 02067"
+ },
+ {
+   "Store Number":"122",
+   "Store Name":"NORWOOD",
+   "FIELD3":"617 769 6135",
+   "FIELD4":"434 Walpole St., Rte 1a, Norwood, MA 02062"
+ },
+ {
+   "Store Number":"123",
+   "Store Name":"ASHLAND",
+   "FIELD3":"508 881 5125",
+   "FIELD4":"301 Pond St., Ashland, MA 01721"
+ },
+ {
+   "Store Number":"124",
+   "Store Name":"RAYNHAM",
+   "FIELD3":"508 822 5660",
+   "FIELD4":"Rte 44 (300 New State Hwy), Raynham, MA 02767"
+ },
+ {
+   "Store Number":"125",
+   "Store Name":"TAUNTON",
+   "FIELD3":"508 822 0137",
+   "FIELD4":"Plaza 44/Warner Blvd., 280 Winthrop St. Taunton, MA 02780"
+ },
+ {
+   "Store Number":"126",
+   "Store Name":"WOONSOCKET",
+   "FIELD3":"401 765 3090",
+   "FIELD4":"1500 Diamond Hill Rd, Woonsocket, RI 02895"
+ },
+ {
+   "Store Number":"127",
+   "Store Name":"FALL RIVER",
+   "FIELD3":"508 674 8445",
+   "FIELD4":"465 William Canning Blvd., Fall River, MA 02722"
+ },
+ {
+   "Store Number":"128",
+   "Store Name":"NEW BEDFORD",
+   "FIELD3":"508 998 1226",
+   "FIELD4":"500 King's Highway, New Bedford, MA 02745"
+ },
+ {
+   "Store Number":"129",
+   "Store Name":"FAIRHAVEN",
+   "FIELD3":"508 993 9996",
+   "FIELD4":"11 Berdon Way, Fairhaven, MA 02719"
+ },
+ {
+   "Store Number":"130",
+   "Store Name":"DARTMOUTH",
+   "FIELD3":"508 993 9995",
+   "FIELD4":"15 State Road, N. Dartmouth, MA 02747"
+ },
+ {
+   "Store Number":"173",
+   "Store Name":"NORTHBRIDGE",
+   "FIELD3":"508 234 0457",
+   "FIELD4":"1177 Providence Rd, Whitinsville, MA 01588"
+ },
+ {
+   "Store Number":"174",
+   "Store Name":"CRANSTON",
+   "FIELD3":"401 946 9720",
+   "FIELD4":"151 Sockanosset Cross Rd., Cranston, RI 02095"
+ },
+ {
+   "Store Number":"175",
+   "Store Name":"RIVERSIDE",
+   "FIELD3":"401 433 3180",
+   "FIELD4":"1050 Willett Ave., E. Providence, RI 02915"
+ },
+ {
+   "Store Number":"176",
+   "Store Name":"BARRINGTON",
+   "FIELD3":"401 245 5392",
+   "FIELD4":"181 County Rd., Barrington, RI 02806"
+ },
+ {
+   "Store Number":"177",
+   "Store Name":"NEWPORT",
+   "FIELD3":"401 841 0559",
+   "FIELD4":"181 Bellevue Ave., Newport RI 02840"
+ },
+ {
+   "Store Number":"178",
+   "Store Name":"JOHNSTON",
+   "FIELD3":"401 272 0219",
+   "FIELD4":"1485 Hartford Ave., Johnston, RI 02919"
+ },
+ {
+   "Store Number":"179",
+   "Store Name":"WESTERLY",
+   "FIELD3":"401 348 8254",
+   "FIELD4":"100 Franklin St., Westerly, RI 02891"
+ },
+ {
+   "Store Number":"190",
+   "Store Name":"HANOVER",
+   "FIELD3":"617 826 2864",
+   "FIELD4":"55 Columbia Rd., Hanover, MA 02339"
+ },
+ {
+   "Store Number":"191",
+   "Store Name":"LAKEWOOD",
+   "FIELD3":"401 941 4553",
+   "FIELD4":"320 Warwick Ave., Warwick, RI 02889"
+ },
+ {
+   "Store Number":"192",
+   "Store Name":"MIDDLETOWN",
+   "FIELD3":"401 848 7560",
+   "FIELD4":"99 E. Main Rd., Aquidneck Ctr, Middletown, RI 02840"
+ },
+ {
+   "Store Number":"193",
+   "Store Name":"WALTHAM",
+   "FIELD3":"617 894 8749",
+   "FIELD4":"836 Main St., Waltham, MA 02154"
+ },
+ {
+   "Store Number":"194",
+   "Store Name":"N. PROVIDENCE",
+   "FIELD3":"401 353 2075",
+   "FIELD4":"15 Smithfield Rd, Admiral Plaza, N. Providence, RI 02911"
+ },
+ {
+   "Store Number":"196",
+   "Store Name":"N. QUINCY",
+   "FIELD3":"617 689 0442",
+   "FIELD4":"475 Hancock St., N. Quincy, MA 02171"
+ },
+ {
+   "Store Number":"201",
+   "Store Name":"MANCHESTER",
+   "FIELD3":"860 643 3466",
+   "FIELD4":"425 Broad St, Manchester, CT 06040"
+ },
+ {
+   "Store Number":"202",
+   "Store Name":"BRISTOL",
+   "FIELD3":"860 314 2700",
+   "FIELD4":"325 Oakland St., Bristol, CT 06010"
+ },
+ {
+   "Store Number":"203",
+   "Store Name":"VERNON",
+   "FIELD3":"860 870 6244",
+   "FIELD4":"50 Windsorville Rd., Vernon CT 06066"
+ },
+ {
+   "Store Number":"204",
+   "Store Name":"WATERFORD",
+   "FIELD3":"860 701 5944",
+   "FIELD4":"120 Boston Post Rd., CT 06385"
+ },
+ {
+   "Store Number":"205",
+   "Store Name":"NEW BRITAIN",
+   "FIELD3":"860 832 4244",
+   "FIELD4":"1045 W. Main St., New Britain, CT 06053"
+ },
+ {
+   "Store Number":"206",
+   "Store Name":"NEWINGTON",
+   "FIELD3":"860 594 7133",
+   "FIELD4":"206 Kitts Lane, Newington, CT 06111"
+ },
+ {
+   "Store Number":"250",
+   "Store Name":"ENFIELD",
+   "FIELD3":"860 745 1621",
+   "FIELD4":"40 Hazard Avenue, Enfield, CT 06082"
+ },
+ {
+   "Store Number":"251",
+   "Store Name":"WATERBURY",
+   "FIELD3":"203 755 6682",
+   "FIELD4":"953 Wolcott Rd., Waterbury, CT 06705"
+ },
+ {
+   "Store Number":"252",
+   "Store Name":"WALLINGFORD",
+   "FIELD3":"203 265 7077",
+   "FIELD4":"976 No. Colony Rd., Wallingford, CT 06492"
+ },
+ {
+   "Store Number":"253",
+   "Store Name":"ORANGE",
+   "FIELD3":"203 795 6775",
+   "FIELD4":"538 Boston Post Rd., Orange, CT 06477"
+ },
+ {
+   "Store Number":"254",
+   "Store Name":"SHELTON",
+   "FIELD3":"203 929 4499",
+   "FIELD4":"875 Bridgeport Avenue, Shelton, CT 06484"
+ },
+ {
+   "Store Number":"255",
+   "Store Name":"GLASTONBURY",
+   "FIELD3":"860 633 1858",
+   "FIELD4":"55 Welles St., Glastonbury, CT 06033"
+ },
+ {
+   "Store Number":"256",
+   "Store Name":"STRATFORD",
+   "FIELD3":"203 378 4296",
+   "FIELD4":"1100 Barnum Avenue, Stratford, CT 06497"
+ },
+ {
+   "Store Number":"257",
+   "Store Name":"FAIRFIELD",
+   "FIELD3":"203 384 2288",
+   "FIELD4":"1975 Black Rock Tpk., Fairfield, CT 06430"
+ },
+ {
+   "Store Number":"258",
+   "Store Name":"WILLIMANTIC",
+   "FIELD3":"860 423 6348",
+   "FIELD4":"60 Cantor Dr., Willmantic, CT 06226"
+ },
+ {
+   "Store Number":"259",
+   "Store Name":"WEST HARTFORD",
+   "FIELD3":"860 233 1713",
+   "FIELD4":"46 Kane St., W. Hartford, CT 06107"
+ },
+ {
+   "Store Number":"260",
+   "Store Name":"SOUTHINGTON",
+   "FIELD3":"860 621 7408",
+   "FIELD4":"750 Queen St., Southington, CT 06489"
+ },
+ {
+   "Store Number":"261",
+   "Store Name":"CLINTON",
+   "FIELD3":"860 669 0107",
+   "FIELD4":"265 East Main St., Clinton, CT 06413"
+ },
+ {
+   "Store Number":"331",
+   "Store Name":"AUBURN MASS",
+   "FIELD3":"508 832 0440",
+   "FIELD4":"368 Southbridge St., Auburn, MA 01501"
+ },
+ {
+   "Store Number":"332",
+   "Store Name":"STURBRIDGE",
+   "FIELD3":"508 347 3003",
+   "FIELD4":"Rte. 131 (Main St.) Sturbridge Plaza, Sturbridge, MA 01566"
+ },
+ {
+   "Store Number":"333",
+   "Store Name":"WEBSTER SQ",
+   "FIELD3":"508 754 0876",
+   "FIELD4":"68 Stafford St., Worcester, MA 01603"
+ },
+ {
+   "Store Number":"334",
+   "Store Name":"CLINTON",
+   "FIELD3":"508 368 0306",
+   "FIELD4":"1175 Main St., Clinton, MA 01510"
+ },
+ {
+   "Store Number":"335",
+   "Store Name":"SHREWSBURY",
+   "FIELD3":"508 752 7447",
+   "FIELD4":"50 Boston Turnpike Rd., Shrewsbury, MA 01545"
+ },
+ {
+   "Store Number":"336",
+   "Store Name":"LINCOLN ST",
+   "FIELD3":"508 852 2857",
+   "FIELD4":"490 Lincoln St., Worcester, MA 01605"
+ },
+ {
+   "Store Number":"337",
+   "Store Name":"GOLD STAR BLVD",
+   "FIELD3":"508 852 7670",
+   "FIELD4":"112 Gold Star Blvd., Worcester, MA 01606"
+ },
+ {
+   "Store Number":"338",
+   "Store Name":"HUDSON",
+   "FIELD3":"508 562 4111",
+   "FIELD4":"Rte 85 & 10 Tech. Dr., Hudson, MA 01749"
+ },
+ {
+   "Store Number":"339",
+   "Store Name":"LEOMINSTER",
+   "FIELD3":"508 537 8908",
+   "FIELD4":"Watertower Plaza (289 N. Main St.), Leominster, MA 01453"
+ },
+ {
+   "Store Number":"340",
+   "Store Name":"MILFORD",
+   "FIELD3":"508 478 4519",
+   "FIELD4":"Rte. 140 (1 Prospect St.), Milford, MA 01757"
+ },
+ {
+   "Store Number":"341",
+   "Store Name":"PEABODY",
+   "FIELD3":"508 532 5434",
+   "FIELD4":"N. Shore Shopping Plaza, Essex Center Dr., Peabody, MA 01960"
+ },
+ {
+   "Store Number":"342",
+   "Store Name":"DOVER",
+   "FIELD3":"603 749 5389",
+   "FIELD4":"851 Central Ave., Dover, NH 03820"
+ },
+ {
+   "Store Number":"343",
+   "Store Name":"PORTSMOUTH",
+   "FIELD3":"603 436 5793",
+   "FIELD4":"US Rt.1 (Southgate Plaza) Lafayette Rd., Portsmouth, NH 03801"
+ },
+ {
+   "Store Number":"344",
+   "Store Name":"WOODBURY AVE",
+   "FIELD3":"603 436 0323",
+   "FIELD4":"Durbin Sq. 1600 28 Woodbury Ave, Portsmouth, NH 03801"
+ },
+ {
+   "Store Number":"345",
+   "Store Name":"STRATHAM",
+   "FIELD3":"603 778 8545",
+   "FIELD4":"Rte. 101, Portsmouth Ave., Stratham, NH 03885"
+ },
+ {
+   "Store Number":"347",
+   "Store Name":"NASHUA",
+   "FIELD3":"603 888 8796",
+   "FIELD4":"143 Daniel Webster Hwy., Nashua, NH 03062"
+ },
+ {
+   "Store Number":"348",
+   "Store Name":"DERRY",
+   "FIELD3":"603 432 9592",
+   "FIELD4":"Hood Plaza, Crystal Ave., Derry, NH 03038"
+ },
+ {
+   "Store Number":"349",
+   "Store Name":"LONDONDERRY",
+   "FIELD3":"603 432 8846",
+   "FIELD4":"Appletree Mall, Rt 102, Londonderry, NH 03053"
+ },
+ {
+   "Store Number":"350",
+   "Store Name":"MERRIMACK",
+   "FIELD3":"603 429 1280",
+   "FIELD4":"356 C Daniel Webster Hwy., Merrimack, NH 03054"
+ },
+ {
+   "Store Number":"351",
+   "Store Name":"HOOKSET",
+   "FIELD3":"603 623 8846",
+   "FIELD4":"1328 Hooksett Rd (Granite State Market Plz), Hooksett, NH 03106"
+ },
+ {
+   "Store Number":"352",
+   "Store Name":"GOFFSTOWN",
+   "FIELD3":"603 668 5620",
+   "FIELD4":"553 Mast Rd., Rte. 114, Goffstown, NH 03045"
+ },
+ {
+   "Store Number":"353",
+   "Store Name":"SEABROOK",
+   "FIELD3":"603 474 2320",
+   "FIELD4":"270 Lafayette Rd., Rt 1,(Seacoast Shpng Ctr)Seabrook, NH 03874"
+ },
+ {
+   "Store Number":"354",
+   "Store Name":"CONCORD",
+   "FIELD3":"603 228 0770",
+   "FIELD4":"20 Fort Eddy Rd., (Eddy Plaza) Concord, NH 03301"
+ },
+ {
+   "Store Number":"355",
+   "Store Name":"BEVERLY",
+   "FIELD3":"508 927 4202",
+   "FIELD4":"65 Dodge St., (Beverly Plaza) Beverly, MA 01915"
+ },
+ {
+   "Store Number":"356",
+   "Store Name":"LACONIA",
+   "FIELD3":"603 524 3941",
+   "FIELD4":"Belknap Mall, 491 State Rt. 3, Belmont, NH 03220"
+ },
+ {
+   "Store Number":"357",
+   "Store Name":"NEWBURYPORT",
+   "FIELD3":"508 462 7121",
+   "FIELD4":"Storey Ave, Port Plaza, Newburyport, MA 01950"
+ },
+ {
+   "Store Number":"358",
+   "Store Name":"MILFORD NH",
+   "FIELD3":"603 672 3336",
+   "FIELD4":"586 Nashua St. Rte 101a, Milford, NH 03055"
+ },
+ {
+   "Store Number":"359",
+   "Store Name":"SALEM MA",
+   "FIELD3":"508 741 8660",
+   "FIELD4":"Highlanders Plaza, Traders Way, Salem, MA 01970"
+ },
+ {
+   "Store Number":"360",
+   "Store Name":"STONEHAM",
+   "FIELD3":"617 438 7533",
+   "FIELD4":"99 Main St. (Rt 28), (Redstone Shping Ctr) Stoneham, MA 02180"
+ },
+ {
+   "Store Number":"386",
+   "Store Name":"REVERE",
+   "FIELD3":"617 286 3750",
+   "FIELD4":"209 Revere Beach Parkwy, Revere, MA 02151"
+ },
+ {
+   "Store Number":"387",
+   "Store Name":"MELROSE",
+   "FIELD3":"617 665 8512",
+   "FIELD4":"34 Essex St., Melrose, MA 02176"
+ },
+ {
+   "Store Number":"390",
+   "Store Name":"UPPER VALLEY",
+   "FIELD3":"603 298 8223",
+   "FIELD4":"Rte. 12A, Upper Valley Shopping Plaza, W. Lebanon, NH 03766"
+ },
+ {
+   "Store Number":"391",
+   "Store Name":"ROYAL RIDGE",
+   "FIELD3":"603 891 1649",
+   "FIELD4":"213 Daniel Webster Highway, Nashua NH 03062"
+ },
+ {
+   "Store Number":"411",
+   "Store Name":"COLCHESTER",
+   "FIELD3":"802 654 7803",
+   "FIELD4":"500 Mountain View Dr., Colchester, VT 05446"
+ },
+ {
+   "Store Number":"412",
+   "Store Name":"BERLIN CORNERS",
+   "FIELD3":"802 223 2652",
+   "FIELD4":"Paine Turnpike No., Berline Corners, VT 05602"
+ },
+ {
+   "Store Number":"461",
+   "Store Name":"N. CONWAY",
+   "FIELD3":"603 356 5471",
+   "FIELD4":"1584 Wt.Mtn.Highway, (Rt.16 Northway Plaza)N. Conway, NH 03860"
+ },
+ {
+   "Store Number":"462",
+   "Store Name":"PLAISTOW N.H.",
+   "FIELD3":"603 382 2891",
+   "FIELD4":"9 Plaistow Rd. Rt.125, Plaistow, NH 03865"
+ },
+ {
+   "Store Number":"464",
+   "Store Name":"N.WINDHAM",
+   "FIELD3":"207 892 5159",
+   "FIELD4":"770 Roosevelt Trail, Rte. 16, No. Windham, ME 04062"
+ },
+ {
+   "Store Number":"465",
+   "Store Name":"KEENE N.H.",
+   "FIELD3":"603 358 6037",
+   "FIELD4":"360 Winchester St., Keene, NH 03431"
+ },
+ {
+   "Store Number":"466",
+   "Store Name":"FALMOUTH",
+   "FIELD3":"207 781 4520",
+   "FIELD4":"U.S. Route 1, (Falmouth Shopping Ctr.)Falmouth, ME 04105"
+ },
+ {
+   "Store Number":"467",
+   "Store Name":"NORTHGATE",
+   "FIELD3":"207 797 4304",
+   "FIELD4":"91 Auburn St., (Northgate Shopping Center) Portland, ME 04103"
+ },
+ {
+   "Store Number":"468",
+   "Store Name":"PINETREE",
+   "FIELD3":"207 773 7920",
+   "FIELD4":"1032 Brighton Ave., (Pinetree Shopping Center) Portland, ME 04102"
+ },
+ {
+   "Store Number":"469",
+   "Store Name":"WESTGATE",
+   "FIELD3":"207 774 7661",
+   "FIELD4":"1364 Congress St., (Westgate Shopping Center) Portland, ME 04102"
+ },
+ {
+   "Store Number":"471",
+   "Store Name":"MILLCREEK",
+   "FIELD3":"207 799 8149",
+   "FIELD4":"180 Waterman Drive, So. Portland, ME 04106"
+ },
+ {
+   "Store Number":"472",
+   "Store Name":"SALEM N.H.",
+   "FIELD3":"603 893 3634",
+   "FIELD4":"92 Cluff Crossings, Salem, NH 03079"
+ },
+ {
+   "Store Number":"474",
+   "Store Name":"SACO",
+   "FIELD3":"207 284 5928",
+   "FIELD4":"11 Scammon St., Saco, ME 04072"
+ },
+ {
+   "Store Number":"475",
+   "Store Name":"SCARBORO",
+   "FIELD3":"207 883 2443",
+   "FIELD4":"417 Payne Road, Scarborough, ME 04074"
+ },
+ {
+   "Store Number":"476",
+   "Store Name":"ROCKLAND",
+   "FIELD3":"207 594 8615",
+   "FIELD4":"235 Camden St., Rockland, ME 04841"
+ },
+ {
+   "Store Number":"477",
+   "Store Name":"SANFORD",
+   "FIELD3":"207 324 8990",
+   "FIELD4":"520 Main Street (Ctr For Shping), Sanford, ME 04073"
+ },
+ {
+   "Store Number":"478",
+   "Store Name":"BANGOR",
+   "FIELD3":"207 942 1608",
+   "FIELD4":"46 Springer Dr., Bangor, ME 04401"
+ },
+ {
+   "Store Number":"479",
+   "Store Name":"LEWISTON",
+   "FIELD3":"207 784 6929",
+   "FIELD4":"1035 Lisbon St., Lewiston, ME 04240"
+ },
+ {
+   "Store Number":"480",
+   "Store Name":"AUBURN",
+   "FIELD3":"207 784 6971",
+   "FIELD4":"600 Center St., Auburn, ME 04210"
+ },
+ {
+   "Store Number":"481",
+   "Store Name":"WATERVILLE",
+   "FIELD3":"207 873 6224",
+   "FIELD4":"251 Kennedy Mem. Dr., Waterville, ME 04901"
+ },
+ {
+   "Store Number":"482",
+   "Store Name":"AUGUSTA",
+   "FIELD3":"207 623 4520",
+   "FIELD4":"Western Ave., Augusta, ME 04330"
+ },
+ {
+   "Store Number":"483",
+   "Store Name":"BATH",
+   "FIELD3":"207 443 9179",
+   "FIELD4":"Rte. 1, (Leiman Highway) Bath, ME 04530"
+ },
+ {
+   "Store Number":"484",
+   "Store Name":"BRUNSWICK",
+   "FIELD3":"207 725 8751",
+   "FIELD4":"147 Bath Road (Rte. 1), Brunswick, ME 04011"
+ },
+ {
+   "Store Number":"485",
+   "Store Name":"W. LEBANON",
+   "FIELD3":"603 298 0388",
+   "FIELD4":"Benning Dr Pwdr Hse Plza, West Lebanon, NH 03784"
+ },
+ {
+   "Store Number":"488",
+   "Store Name":"BANGOR",
+   "FIELD3":"207 942 9441",
+   "FIELD4":"353 Main St., Bangor, Me. 04401"
+ },
+ {
+   "Store Number":"490",
+   "Store Name":"ELLSWORTH",
+   "FIELD3":"207 667 2293",
+   "FIELD4":"163 High St., Ellsworth, ME 04605"
+ }
+]
