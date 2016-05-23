@@ -53,3 +53,8 @@ Potential Tweets
 	Help us find Almacs locations
 	Help us with our directions. where are the former Almacs
 
+Facebook Groups
+	https://www.facebook.com/groups/7931798605/?ref=nf_target&fref=nf
+	https://www.facebook.com/groups/64267457811/?ref=nf_target&fref=nf
+
+	#10 (Hoxsie) in 1969 and lasted right to the end. It was a pretty good ride - made lots of friends there. I worked at #9 ( EG), #8 (Garden City), #2 (Coventry), #25 ( West Warwick), #? No. Kingston, #? Wakefield, #5 (Murray St). 
