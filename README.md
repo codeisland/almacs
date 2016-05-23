@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/codeisland/almacs.png?label=ready&title=Ready)](https://waffle.io/codeisland/almacs)
 # Almacs
 Help us find locations of former almacs
 
